@@ -19,7 +19,7 @@ paginate:         5
 title: Personal Blog
 email: do@not.com
 description: > # this means to ignore newlines until "baseurl:"
-This is a personal blog and should not be accessed directly by anyone except the author.
+    This is a personal blog and should not be accessed directly by anyone except the author.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: irondack
