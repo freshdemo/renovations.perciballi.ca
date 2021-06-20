@@ -2,7 +2,7 @@
 layout: post
 title:  "Paralegal"
 date:   2021-06-16 12:21:16 -0400
-categories: renovations paralegal
+tags: renovations paralegal
 ---
 <p>
 This post will follow the conversations with the paralegal.

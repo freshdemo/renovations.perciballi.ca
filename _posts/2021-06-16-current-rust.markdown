@@ -2,7 +2,7 @@
 layout: post
 title:  "Current Rust Issues Summary"
 date:   2021-06-16 12:21:16 -0400
-categories: renovations warranty
+tags: renovations warranty
 ---
 <p>
 This summary is focussed on the outstanding issues and payments. The contract for the Back was signed October 12, 2020 and contracted to be completed in 3 weeks. The contract for the Decks was signed October 26, 2020 and was contracted to be completed in four weeks. We are at 34 weeks and counting.

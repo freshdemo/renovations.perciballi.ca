@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-19T17:28:21-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Renovations Review</title><subtitle>This is a personal blog and should not be accessed directly by anyone except the author.
-</subtitle><entry><title type="html">Design Contract</title><link href="http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-design.html" rel="alternate" type="text/html" title="Design Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-design</id><content type="html" xml:base="http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-design.html">&lt;html&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-19T20:50:36-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Renovations Review</title><subtitle>This is a personal blog and should not be accessed directly by anyone except the author.
+</subtitle><entry><title type="html">Design Contract</title><link href="http://0.0.0.0:4000/2021/06/16/contracts-design.html" rel="alternate" type="text/html" title="Design Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/contracts-design</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/contracts-design.html">&lt;html&gt;
 &lt;body&gt;
 
 &lt;p&gt;
@@ -10,7 +10,7 @@ This is the design contract.
 &lt;object data=&quot;/docs/contract-design.pdf&quot; width=&quot;1000&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;&amp;lt;/object&amp;gt;
 
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Decks Contract</title><link href="http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-decks.html" rel="alternate" type="text/html" title="Decks Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-decks</id><content type="html" xml:base="http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-decks.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="renovations" /><category term="contracts" /><summary type="html"></summary></entry><entry><title type="html">Decks Contract</title><link href="http://0.0.0.0:4000/2021/06/16/contracts-decks.html" rel="alternate" type="text/html" title="Decks Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/contracts-decks</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/contracts-decks.html">&lt;html&gt;
 &lt;body&gt;
 
 &lt;p&gt;
@@ -21,7 +21,7 @@ This is the decks contract.
 &lt;object data=&quot;/docs/contract-decks.pdf&quot; width=&quot;1000&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;&amp;lt;/object&amp;gt;
 
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Back Contract</title><link href="http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-back.html" rel="alternate" type="text/html" title="Back Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-back</id><content type="html" xml:base="http://0.0.0.0:4000/renovations/contracts/2021/06/16/contracts-back.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="renovations" /><category term="contracts" /><summary type="html"></summary></entry><entry><title type="html">Back Contract</title><link href="http://0.0.0.0:4000/2021/06/16/contracts-back.html" rel="alternate" type="text/html" title="Back Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/contracts-back</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/contracts-back.html">&lt;html&gt;
 &lt;body&gt;
 
 &lt;p&gt;
@@ -32,7 +32,7 @@ This is the back contract.
 &lt;object data=&quot;/docs/contract-back.pdf&quot; width=&quot;1000&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;&amp;lt;/object&amp;gt;
 
 &lt;/body&gt;
-&lt;/html&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Paralegal</title><link href="http://0.0.0.0:4000/renovations/paralegal/2021/06/16/paralegal.html" rel="alternate" type="text/html" title="Paralegal" /><published>2021-06-16T11:21:16-05:00</published><updated>2021-06-16T11:21:16-05:00</updated><id>http://0.0.0.0:4000/renovations/paralegal/2021/06/16/paralegal</id><content type="html" xml:base="http://0.0.0.0:4000/renovations/paralegal/2021/06/16/paralegal.html">&lt;p&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="renovations" /><category term="contracts" /><summary type="html"></summary></entry><entry><title type="html">Paralegal</title><link href="http://0.0.0.0:4000/2021/06/16/paralegal.html" rel="alternate" type="text/html" title="Paralegal" /><published>2021-06-16T11:21:16-05:00</published><updated>2021-06-16T11:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/paralegal</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/paralegal.html">&lt;p&gt;
 This post will follow the conversations with the paralegal.
 &lt;/p&gt;
 
@@ -55,7 +55,7 @@ On June 16 a call was placed to both the paralegal and KP Construction, with no 
 &lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/docs/paralegal-firstcall.jpeg&quot; /&gt;
-&lt;img src=&quot;/docs/paralegal-callkp.jpeg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This post will follow the conversations with the paralegal.</summary></entry><entry><title type="html">Current Rust Issues Summary</title><link href="http://0.0.0.0:4000/renovations/warranty/2021/06/16/current-rust.html" rel="alternate" type="text/html" title="Current Rust Issues Summary" /><published>2021-06-16T11:21:16-05:00</published><updated>2021-06-16T11:21:16-05:00</updated><id>http://0.0.0.0:4000/renovations/warranty/2021/06/16/current-rust</id><content type="html" xml:base="http://0.0.0.0:4000/renovations/warranty/2021/06/16/current-rust.html">&lt;p&gt;
+&lt;img src=&quot;/docs/paralegal-callkp.jpeg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="renovations" /><category term="paralegal" /><summary type="html">This post will follow the conversations with the paralegal.</summary></entry><entry><title type="html">Current Rust Issues Summary</title><link href="http://0.0.0.0:4000/2021/06/16/current-rust.html" rel="alternate" type="text/html" title="Current Rust Issues Summary" /><published>2021-06-16T11:21:16-05:00</published><updated>2021-06-16T11:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/current-rust</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/current-rust.html">&lt;p&gt;
 This summary is focussed on the outstanding issues and payments. The contract for the Back was signed October 12, 2020 and contracted to be completed in 3 weeks. The contract for the Decks was signed October 26, 2020 and was contracted to be completed in four weeks. We are at 34 weeks and counting.
 &lt;/p&gt;
 
@@ -104,4 +104,4 @@ Iron railings cables need to be installed.
 &lt;p&gt;
 We are now offering KP Construction a third chance to resolve the rust issues on the staircase. We have obtained a second opinion and quote from an iron shop who says that the stairs must be galvanized. Please respond by June 24, 2020 to determine if KP Construction will be participating in this solution. No further changes are permitted to this site until the solution is discussed and agreed upon in advance. If you choose not to participate we will be working with another iron supplier to replace the stairs and potentially the railings which are starting to show signs of rust. At that point we would also be forced to take legal action aswell.
 &lt;/p&gt;
-&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This summary is focussed on the outstanding issues and payments. The contract for the Back was signed October 12, 2020 and contracted to be completed in 3 weeks. The contract for the Decks was signed October 26, 2020 and was contracted to be completed in four weeks. We are at 34 weeks and counting.</summary></entry></feed>
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content><author><name></name></author><category term="renovations" /><category term="warranty" /><summary type="html">This summary is focussed on the outstanding issues and payments. The contract for the Back was signed October 12, 2020 and contracted to be completed in 3 weeks. The contract for the Decks was signed October 26, 2020 and was contracted to be completed in four weeks. We are at 34 weeks and counting.</summary></entry></feed>

@@ -6,7 +6,7 @@ categories:
 
 ### Summary ###
 
-This is the overall review for renovations we had done to a house recently. Please see the [Categories link](https://renovations.perciballi.ca//categories/) at the top right for more details on everything below.
+This is the overall review for renovations we had done to a house recently. Please see the [Tags link](https://renovations.perciballi.ca/tag/) at the top right for more details on everything below.
 
 ![](images/stars.png)
 
