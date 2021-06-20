@@ -15,7 +15,7 @@ This is the overall review for renovations we had done to a house recently. Plea
 - The contracts were clearly documented. 
 - The work started quickly.
 - We were upsold to use longer lasting and better materials.
-- For the most part all of the installation work is quite good.
+- For the most part all of the installation work is quite good, and probably would have received a 4 star if not for the rust issues ongoing andmassive amount of painful emails required throughout the project.
 
 #### Bad ####
 
