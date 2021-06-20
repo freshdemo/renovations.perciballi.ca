@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Payments"
+date:   2021-06-16 13:21:16 -0400
+tags: renovations payments
+---
+<html>
+<body>
+
+<p>
+This first spreadsheet shows the total payments due according to the contracts. The manager indicated that I will save over half of the HST by paying cash, so most of these payments were made in cash. Withdrawal statements are available upon request.
+</p>
+
+<p>
+This should indicate that the total price should come in around $45,800.
+</p>
+
+<img src="/images/contract-targets.png">
+<br><br>
+<p>
+This spreadsheet was used to track payments made. It is clear to see that many payments were made in advance of work completing and not at all in the order outlined in the contract.
+</p>
+
+<img src="/images/contract-payments.png">
+<br><br>
+
+<p>
+Currently manager and paralegal are asking for $8757.50. This would come to a total of $47640.30 paid. 
+</p>
+
+<p>
+The Design Contract is $2599, and was supposed to be fully discounted. The back contract accounts for $600 and we verbally accounted for this deduction during the payments in November 2020. The decks contract only accounts for an additional $1100 discount in the total, even though it technically it says $1000 where referenced at the top. The delta is $899, meaning that the total contract price on the decks contract should be less $899 (with or without HST).
+</p>
+
+<p>
+Following is an example of the outstanding payment while only discounting 60% of the HST. It should be more because more than 60% of the payments were made in cash, and the intention was that the final ones would also be made in cash.
+</p>
+
+<img src="/images/contract-outstanding.png">
+<br><br>
+
+<p>
+The delta is likely due to the fact that manager did not make any subsequent discounts for the design contract, which according to these records is $1999. He claims that the rest of the design contract discount has been applied but there is no evidence of this anywhere, and the totals show at least this.
+</p>
+
+
+</body>
+</html>

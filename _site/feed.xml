@@ -1,5 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-19T20:50:36-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Renovations Review</title><subtitle>This is a personal blog and should not be accessed directly by anyone except the author.
-</subtitle><entry><title type="html">Design Contract</title><link href="http://0.0.0.0:4000/2021/06/16/contracts-design.html" rel="alternate" type="text/html" title="Design Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/contracts-design</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/contracts-design.html">&lt;html&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-06-20T14:58:07-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Renovations Review</title><subtitle>This is a personal blog and should not be accessed directly by anyone except the author.
+</subtitle><entry><title type="html">Payments</title><link href="http://0.0.0.0:4000/2021/06/16/payments.html" rel="alternate" type="text/html" title="Payments" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/payments</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/payments.html">&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;
+This first spreadsheet shows the total payments due according to the contracts. The manager indicated that I will save over half of the HST by paying cash, so most of these payments were made in cash. Withdrawal statements are available upon request.
+&lt;/p&gt;
+
+&lt;p&gt;
+This should indicate that the total price should come in around $45,800.
+&lt;/p&gt;
+
+&lt;img src=&quot;/images/contract-targets.png&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;
+This spreadsheet was used to track payments made. It is clear to see that many payments were made in advance of work completing and not at all in the order outlined in the contract.
+&lt;/p&gt;
+
+&lt;img src=&quot;/images/contract-payments.png&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;p&gt;
+Currently manager and paralegal are asking for $8757.50. This would come to a total of $47640.30 paid. 
+&lt;/p&gt;
+
+&lt;p&gt;
+The Design Contract is $2599, and was supposed to be fully discounted. The back contract accounts for $600 and we verbally accounted for this deduction during the payments in November 2020. The decks contract only accounts for an additional $1100 discount in the total, even though it technically it says $1000 where referenced at the top. The delta is $899, meaning that the total contract price on the decks contract should be less $899 (with or without HST).
+&lt;/p&gt;
+
+&lt;p&gt;
+Following is an example of the outstanding payment while only discounting 60% of the HST. It should be more because more than 60% of the payments were made in cash, and the intention was that the final ones would also be made in cash.
+&lt;/p&gt;
+
+&lt;img src=&quot;/images/contract-outstanding.png&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+
+&lt;p&gt;
+The delta is likely due to the fact that manager did not make any subsequent discounts for the design contract, which according to these records is $1999. He claims that the rest of the design contract discount has been applied but there is no evidence of this anywhere, and the totals show at least this.
+&lt;/p&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name></name></author><category term="renovations" /><category term="payments" /><summary type="html"></summary></entry><entry><title type="html">Design Contract</title><link href="http://0.0.0.0:4000/2021/06/16/contracts-design.html" rel="alternate" type="text/html" title="Design Contract" /><published>2021-06-16T12:21:16-05:00</published><updated>2021-06-16T12:21:16-05:00</updated><id>http://0.0.0.0:4000/2021/06/16/contracts-design</id><content type="html" xml:base="http://0.0.0.0:4000/2021/06/16/contracts-design.html">&lt;html&gt;
 &lt;body&gt;
 
 &lt;p&gt;
@@ -66,9 +107,15 @@ This summary is focussed on the outstanding issues and payments. The contract fo
 
 &lt;ul&gt;
  &lt;li&gt;March 31 - Email sent to Manager asking to discuss rusting of the stairs and posts.
+ &lt;img src=&quot;/images/rust-april52021-1.png&quot; /&gt;
+ &lt;img src=&quot;/images/rust-april52021-2.png&quot; /&gt;
+ &lt;img src=&quot;/images/rust-april52021-3.png&quot; /&gt;
+ &lt;img src=&quot;/images/rust-april52021-4.png&quot; /&gt;
  &lt;li&gt;April 7 - Workers come to the site and repaint stairs and posts.
  &lt;li&gt;April 17 - Manager asks for remainder of payment for back contract. Manager is advised that the ceiling light still has not been deployed. He acknoledges and agrees, &lt;b&gt;however to date the ceiling light is still not installed&lt;/b&gt;
  &lt;li&gt;April 22 - Manager's first threat of legal action.
+ &lt;img src=&quot;/images/light-june202021-1.png&quot; /&gt;
+ &lt;img src=&quot;/images/light-june202021-2.png&quot; /&gt;
  &lt;li&gt;April 23 - In response to the legal threat, the following deficiency list is sent to Manager, clearly nowhere near completed. The issue is that Manager has not been to the site in months.
 
 &lt;pre&gt;
@@ -89,12 +136,19 @@ Iron railing needs to be drilled to the front deck.
 Iron railings cables need to be installed.
 &lt;/pre&gt;
  &lt;li&gt;May 14 - Email sent to Manager indicating rust starting on the back railings. Manager denies claim. Manager indicates that additional holes are from galvinization and will be filled, &lt;b&gt;yet the holes have not been filled to date&lt;/b&gt;.
+ &lt;img src=&quot;/images/rust-may142021-1.png&quot; /&gt;
  &lt;li&gt;May 21 - Email sent to Manager indicating that the rust on the stairs is back.
+ &lt;img src=&quot;/images/rust-may212021-1.png&quot; /&gt;
+ &lt;img src=&quot;/images/rust-may212021-2.png&quot; /&gt;
+ &lt;img src=&quot;/images/rust-may212021-3.png&quot; /&gt;
  &lt;li&gt;May 27 - Worker spends the day taking the stairs apart. No indication has been provided as to what was done to resolve the issue.
+ &lt;img src=&quot;/images/rust-may282021.png&quot; /&gt;
+ &lt;img src=&quot;/images/rust-may282021-2.png&quot; /&gt;
  &lt;li&gt;May 27 - Manager asks for payment again.
  &lt;li&gt;May 28 - Manager is advised that &lt;b&gt;the ceiling light is still not installed&lt;/b&gt;, and that he will need to exercise patience since at this point &lt;b&gt;he has been given two additional attemps at resolving rust on the ungalvanized stair case and we will need time to see if their efforts are effective.&lt;/b&gt; Manager has not responded to this message.
  &lt;li&gt;June 14 - received final notice from Canada Post about registered mail, however had not received any subsequent notices.
  &lt;li&gt;June 15 - Notification sent to Manager that the rust on the stairs has resurfaced enough to prove this problem is not going away, largely due to the fact that they were not galvanized.
+ &lt;img src=&quot;/images/rust-june152021.png&quot; /&gt;
  &lt;li&gt;June 16 - picked up the mail and found a letter from the paralegal. The letter is dated June 6, with a requested response date of June 11, which was clearly not possible based on when it was received on the 16th. The same day an email was sent to the paralegal and manager with a brief summary.
  &lt;li&gt;June 17 - This post is sent to the paralegal.
 &lt;/li&gt;
@@ -104,4 +158,6 @@ Iron railings cables need to be installed.
 &lt;p&gt;
 We are now offering KP Construction a third chance to resolve the rust issues on the staircase. We have obtained a second opinion and quote from an iron shop who says that the stairs must be galvanized. Please respond by June 24, 2020 to determine if KP Construction will be participating in this solution. No further changes are permitted to this site until the solution is discussed and agreed upon in advance. If you choose not to participate we will be working with another iron supplier to replace the stairs and potentially the railings which are starting to show signs of rust. At that point we would also be forced to take legal action aswell.
 &lt;/p&gt;
+
+&lt;img src=&quot;/images/rust-secondopinion.png&quot; /&gt;
 &lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</content><author><name></name></author><category term="renovations" /><category term="warranty" /><summary type="html">This summary is focussed on the outstanding issues and payments. The contract for the Back was signed October 12, 2020 and contracted to be completed in 3 weeks. The contract for the Decks was signed October 26, 2020 and was contracted to be completed in four weeks. We are at 34 weeks and counting.</summary></entry></feed>
