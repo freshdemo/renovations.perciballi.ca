@@ -16,6 +16,13 @@ They sent the letter on June 4, it was dated June 6, with a deadline of June 11.
 <br><br>
 
 <p>
+Here is the letter.
+</p>
+
+<object data="/docs/paralegal-letter.pdf" width="1000" height="1000" type='application/pdf'></object>
+<br><br>
+
+<p>
 Contact with the paralegal was made by email and phone June 16.
 </p>
 
