@@ -68,3 +68,12 @@ We are now offering KP Construction a third chance to resolve the rust issues on
 </p>
 
 <img src="/images/rust-secondopinion.png">
+
+<br><br>
+
+<p>
+Here is a second quote from a reputable railing company found on Home Stars.
+</p>
+
+<img src="/images/rust-thirdopinion1.png">
+<img src="/images/rust-thirdopinion2.png">
