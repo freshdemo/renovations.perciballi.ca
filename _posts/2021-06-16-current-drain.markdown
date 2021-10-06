@@ -18,7 +18,16 @@ This summary is focussed on the outstanding issues and payments. The contract fo
  <li>A French drain is typically supposed to be 18-24 inches under gravel, and the egress for the water should be at least 10 feet from the home.
  <li>As depicted below the drain is neither 18 inches deep nor is it 10 feet from the house.
  <img src="/images/frenchdrain-current.png">
- <li>Here is a quote to resolve this in the most basic way, which involves re-digging the hole, implementing a basin, and implementing an egress pipe.
- <img src="/images/frenchdrain-quote.png">
-</li>
+ </li>
+
+<h2>Additional Cost Summary</h2>
+
+<p>
+To implement a proper drainage system the cost will be approximately $3390 including HST.
+</p>
+
+<p>
+Here is a quote to resolve this in the most basic way, which involves re-digging the hole, implementing a basin, and implementing an egress pipe.
+</p>
+<img src="/images/frenchdrain-quote.png">
 

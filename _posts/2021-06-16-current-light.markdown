@@ -42,13 +42,15 @@ Iron railings cables need to be installed.
 
 <br><br>
 
+<h2>Additional Cost Summary</h2>
+
+<p>To replace the light and have it installed the costs total approximately $398 including HST.
+</p>
+
 <img src="/images/light-replacement.png">
 
 <br><br>
 
 <p>
-Here is a second quote from a reputable railing company found on Home Stars.
+On the Jiffy app $150-$250 is the approximate cost to install a light fixture.
 </p>
-
-<img src="/images/rust-thirdopinion1.png">
-<img src="/images/rust-thirdopinion2.png">
