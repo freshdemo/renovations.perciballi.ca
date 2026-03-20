@@ -29,6 +29,6 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.12", ">= 0.12.0"
    gem "jekyll-gist", "~> 1.4"
    gem "jekyll-paginate", "~> 1.1"
-   gem "jekyll-theme-hydeout", "~> 4.0", ">= 4.0.0"
+   gem "jekyll-theme-hydeout", "~> 5.0", ">= 5.0.0"
 end
 gem 'jekyll-tagging'
